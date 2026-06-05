@@ -1,0 +1,72 @@
+# .gitignore gerado para não commitar dados pesados nem arquivos sensíveis
+# Mantém toda a lógica do projeto (scripts, código, notebooks pequenos)
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# IDE/editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and caches
+*.log
+*.cache
+*.tmp
+.pytest_cache/
+
+# Large data directories and generated artifacts
+/data/
+/data/**
+/data/*
+/raw/
+/parquet/
+/embeddings/
+/models/
+/normalized/
+/reports/
+/evaluation_results/
+
+# Common large file types
+*.parquet
+*.feather
+*.sqlite
+*.db
+*.h5
+*.npz
+*.npy
+*.joblib
+*.pkl
+*.ckpt
+*.bin
+
+# Archives and exports
+*.tar
+*.gz
+*.zip
+
+# Secrets and environment files
+.env.local
+.env.*
+secrets.json
+credentials.json
+
+# Keep small, necessary repository files (scripts, docs, configs)
+# Nota: os scripts como build_dataset.py, ingest.py, train.py permanecem no repositório

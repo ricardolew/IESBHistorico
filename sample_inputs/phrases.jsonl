@@ -1,0 +1,168 @@
+{"id":"D001","phrase":"german invasion","group":"directed","expected_decade":"1940s","note":"Caso direcionado para observar resposta em torno dos anos 1940."}
+{"id":"D002","phrase":"moon landing","group":"directed","expected_decade":"1960s","note":"Evento associado ao fim da decada de 1960."}
+{"id":"D003","phrase":"watergate scandal","group":"directed","expected_decade":"1970s","note":"Evento politico associado aos anos 1970."}
+{"id":"D004","phrase":"berlin wall","group":"directed","expected_decade":"1980s","note":"Expressao usada para observar sinal historico proximo ao fim dos anos 1980."}
+{"id":"D005","phrase":"world trade center","group":"directed","expected_decade":"2000s","note":"Caso direcionado solicitado para observar resposta em torno dos anos 2000."}
+{"id":"D006","phrase":"boxer rebellion","group":"directed","expected_decade":"1900s","note":"Caso direcionado para observar resposta em torno dos anos 1900."}
+{"id":"D007","phrase":"russo japanese war","group":"directed","expected_decade":"1900s","note":"Caso direcionado para observar resposta em torno dos anos 1900."}
+{"id":"D008","phrase":"world war armistice","group":"directed","expected_decade":"1910s","note":"Caso direcionado para observar resposta em torno dos anos 1910."}
+{"id":"D009","phrase":"spanish influenza","group":"directed","expected_decade":"1910s","note":"Caso direcionado para observar resposta em torno dos anos 1910."}
+{"id":"D010","phrase":"prohibition amendment","group":"directed","expected_decade":"1920s","note":"Caso direcionado para observar resposta em torno dos anos 1920."}
+{"id":"D011","phrase":"flapper fashion","group":"directed","expected_decade":"1920s","note":"Caso direcionado para observar resposta em torno dos anos 1920."}
+{"id":"D012","phrase":"great depression","group":"directed","expected_decade":"1930s","note":"Caso direcionado para observar resposta em torno dos anos 1930."}
+{"id":"D013","phrase":"new deal program","group":"directed","expected_decade":"1930s","note":"Caso direcionado para observar resposta em torno dos anos 1930."}
+{"id":"D014","phrase":"pearl harbor attack","group":"directed","expected_decade":"1940s","note":"Caso direcionado para observar resposta em torno dos anos 1940."}
+{"id":"D015","phrase":"korean war","group":"directed","expected_decade":"1950s","note":"Caso direcionado para observar resposta em torno dos anos 1950."}
+{"id":"D016","phrase":"suez crisis","group":"directed","expected_decade":"1950s","note":"Caso direcionado para observar resposta em torno dos anos 1950."}
+{"id":"D017","phrase":"cuban missile crisis","group":"directed","expected_decade":"1960s","note":"Caso direcionado para observar resposta em torno dos anos 1960."}
+{"id":"D018","phrase":"vietnam ceasefire","group":"directed","expected_decade":"1970s","note":"Caso direcionado para observar resposta em torno dos anos 1970."}
+{"id":"D019","phrase":"challenger explosion","group":"directed","expected_decade":"1980s","note":"Caso direcionado para observar resposta em torno dos anos 1980."}
+{"id":"D020","phrase":"gulf war","group":"directed","expected_decade":"1990s","note":"Caso direcionado para observar resposta em torno dos anos 1990."}
+{"id":"D021","phrase":"dot com bubble","group":"directed","expected_decade":"1990s","note":"Caso direcionado para observar resposta em torno dos anos 1990."}
+{"id":"D022","phrase":"financial crisis bailout","group":"directed","expected_decade":"2000s","note":"Caso direcionado para observar resposta em torno dos anos 2000."}
+{"id":"D023","phrase":"arab spring","group":"directed","expected_decade":"2010s","note":"Caso direcionado para observar resposta em torno dos anos 2010."}
+{"id":"D024","phrase":"brexit referendum","group":"directed","expected_decade":"2010s","note":"Caso direcionado para observar resposta em torno dos anos 2010."}
+{"id":"R001","phrase":"electric railway","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R002","phrase":"radio broadcast","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R003","phrase":"silent film","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R004","phrase":"telephone exchange","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R005","phrase":"automobile factory","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R006","phrase":"stock market crash","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R007","phrase":"labor union strike","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R008","phrase":"public housing project","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R009","phrase":"subway expansion","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R010","phrase":"atomic energy commission","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R011","phrase":"civil rights march","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R012","phrase":"space shuttle","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R013","phrase":"oil embargo","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R014","phrase":"personal computer","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R015","phrase":"video cassette","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R016","phrase":"cable television","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R017","phrase":"mobile phone","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R018","phrase":"internet startup","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R019","phrase":"climate change","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R020","phrase":"global financial crisis","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R021","phrase":"social media platform","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R022","phrase":"streaming service","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R023","phrase":"remote work","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R024","phrase":"artificial intelligence","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R025","phrase":"machine learning","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R026","phrase":"electric vehicle","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R027","phrase":"public health emergency","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R028","phrase":"supply chain disruption","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R029","phrase":"housing shortage","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R030","phrase":"railroad merger","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R031","phrase":"farm subsidy","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R032","phrase":"currency devaluation","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R033","phrase":"peace treaty","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R034","phrase":"election campaign","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R035","phrase":"immigration law","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R036","phrase":"school desegregation","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R037","phrase":"urban renewal","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R038","phrase":"film festival","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R039","phrase":"jazz concert","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R040","phrase":"baseball championship","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R041","phrase":"medical research","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R042","phrase":"vaccine trial","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R043","phrase":"newspaper editor","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R044","phrase":"foreign correspondent","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R045","phrase":"trade negotiation","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R046","phrase":"consumer price index","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R047","phrase":"digital camera","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R048","phrase":"online banking","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R049","phrase":"harbor inspection","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R050","phrase":"theater opening","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R051","phrase":"court testimony","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R052","phrase":"factory accident","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R053","phrase":"city budget","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R054","phrase":"postal service","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R055","phrase":"airport terminal","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R056","phrase":"school board","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R057","phrase":"hospital expansion","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R058","phrase":"police investigation","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R059","phrase":"mayoral debate","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R060","phrase":"tax reform","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R061","phrase":"shipping company","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R062","phrase":"steel production","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R063","phrase":"coal miners","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R064","phrase":"weather forecast","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R065","phrase":"book review","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R066","phrase":"art exhibition","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R067","phrase":"opera singer","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R068","phrase":"charity dinner","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R069","phrase":"real estate market","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R070","phrase":"insurance policy","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R071","phrase":"bank merger","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R072","phrase":"patent dispute","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R073","phrase":"naval exercise","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R074","phrase":"diplomatic visit","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R075","phrase":"border dispute","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R076","phrase":"grain harvest","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R077","phrase":"public library","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R078","phrase":"college enrollment","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R079","phrase":"teacher salary","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R080","phrase":"road construction","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R081","phrase":"bridge repair","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R082","phrase":"water reservoir","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R083","phrase":"energy prices","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R084","phrase":"television interview","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R085","phrase":"movie premiere","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R086","phrase":"music festival","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R087","phrase":"soccer tournament","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R088","phrase":"tennis championship","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R089","phrase":"economic recovery","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R090","phrase":"interest rates","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R091","phrase":"inflation report","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R092","phrase":"retail sales","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R093","phrase":"corporate earnings","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R094","phrase":"software update","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R095","phrase":"cyber security","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R096","phrase":"satellite imagery","group":"random","expected_decade":null,"note":"Frase exploratoria aleatoria."}
+{"id":"R097","phrase":"telegraph","group":"random","expected_decade":null,"note":"Frase exploratoria de 1 token."}
+{"id":"R098","phrase":"skyscraper","group":"random","expected_decade":null,"note":"Frase exploratoria de 1 token."}
+{"id":"R099","phrase":"automobile","group":"random","expected_decade":null,"note":"Frase exploratoria de 1 token."}
+{"id":"R100","phrase":"radio","group":"random","expected_decade":null,"note":"Frase exploratoria de 1 token."}
+{"id":"R101","phrase":"television","group":"random","expected_decade":null,"note":"Frase exploratoria de 1 token."}
+{"id":"R102","phrase":"computer","group":"random","expected_decade":null,"note":"Frase exploratoria de 1 token."}
+{"id":"R103","phrase":"internet","group":"random","expected_decade":null,"note":"Frase exploratoria de 1 token."}
+{"id":"R104","phrase":"smartphone","group":"random","expected_decade":null,"note":"Frase exploratoria de 1 token."}
+{"id":"R105","phrase":"pandemic","group":"random","expected_decade":null,"note":"Frase exploratoria de 1 token."}
+{"id":"R106","phrase":"inflation","group":"random","expected_decade":null,"note":"Frase exploratoria de 1 token."}
+{"id":"R107","phrase":"migration","group":"random","expected_decade":null,"note":"Frase exploratoria de 1 token."}
+{"id":"R108","phrase":"automation","group":"random","expected_decade":null,"note":"Frase exploratoria de 1 token."}
+{"id":"R109","phrase":"new federal highway construction plan","group":"random","expected_decade":null,"note":"Frase exploratoria de 5 tokens."}
+{"id":"R110","phrase":"international monetary policy conference opens","group":"random","expected_decade":null,"note":"Frase exploratoria de 5 tokens."}
+{"id":"R111","phrase":"public school enrollment numbers rise","group":"random","expected_decade":null,"note":"Frase exploratoria de 5 tokens."}
+{"id":"R112","phrase":"city transit authority approves expansion","group":"random","expected_decade":null,"note":"Frase exploratoria de 5 tokens."}
+{"id":"R113","phrase":"major newspaper publisher announces merger","group":"random","expected_decade":null,"note":"Frase exploratoria de 5 tokens."}
+{"id":"R114","phrase":"national health agency reviews vaccine","group":"random","expected_decade":null,"note":"Frase exploratoria de 5 tokens."}
+{"id":"R115","phrase":"foreign ministers discuss peace proposal","group":"random","expected_decade":null,"note":"Frase exploratoria de 5 tokens."}
+{"id":"R116","phrase":"university researchers test electric batteries","group":"random","expected_decade":null,"note":"Frase exploratoria de 5 tokens."}
+{"id":"R117","phrase":"bank officials warn about recession","group":"random","expected_decade":null,"note":"Frase exploratoria de 5 tokens."}
+{"id":"R118","phrase":"labor leaders demand wage increases","group":"random","expected_decade":null,"note":"Frase exploratoria de 5 tokens."}
+{"id":"R119","phrase":"police commissioner announces new patrols","group":"random","expected_decade":null,"note":"Frase exploratoria de 5 tokens."}
+{"id":"R120","phrase":"scientists observe unusual solar activity","group":"random","expected_decade":null,"note":"Frase exploratoria de 5 tokens."}
+{"id":"R121","phrase":"the committee approved a new plan for subway construction","group":"random","expected_decade":null,"note":"Frase exploratoria de 9 tokens."}
+{"id":"R122","phrase":"officials said the river bridge would reopen before winter","group":"random","expected_decade":null,"note":"Frase exploratoria de 9 tokens."}
+{"id":"R123","phrase":"the company reported stronger sales after the holiday season","group":"random","expected_decade":null,"note":"Frase exploratoria de 9 tokens."}
+{"id":"R124","phrase":"scientists warned that warmer oceans could alter weather patterns","group":"random","expected_decade":null,"note":"Frase exploratoria de 9 tokens."}
+{"id":"R125","phrase":"the mayor promised new housing funds during the campaign","group":"random","expected_decade":null,"note":"Frase exploratoria de 9 tokens."}
+{"id":"R126","phrase":"a federal judge rejected the challenge to the law","group":"random","expected_decade":null,"note":"Frase exploratoria de 9 tokens."}
+{"id":"R127","phrase":"investors reacted cautiously after the central bank announcement","group":"random","expected_decade":null,"note":"Frase exploratoria de 8 tokens."}
+{"id":"R128","phrase":"the hospital opened a new emergency wing downtown","group":"random","expected_decade":null,"note":"Frase exploratoria de 8 tokens."}
+{"id":"R129","phrase":"students gathered outside the courthouse after the verdict","group":"random","expected_decade":null,"note":"Frase exploratoria de 8 tokens."}
+{"id":"R130","phrase":"engineers tested a faster train on the route","group":"random","expected_decade":null,"note":"Frase exploratoria de 8 tokens."}
+{"id":"R131","phrase":"the orchestra performed a concert for visiting delegates","group":"random","expected_decade":null,"note":"Frase exploratoria de 8 tokens."}
+{"id":"R132","phrase":"farmers expected a smaller harvest because of drought","group":"random","expected_decade":null,"note":"Frase exploratoria de 8 tokens."}
+{"id":"R133","phrase":"city officials said the long delayed water tunnel would reduce shortages across several neighborhoods","group":"random","expected_decade":null,"note":"Frase exploratoria longa acima do padrao de treino."}
+{"id":"R134","phrase":"the president met with labor leaders after weeks of strikes at several large factories","group":"random","expected_decade":null,"note":"Frase exploratoria longa acima do padrao de treino."}
+{"id":"R135","phrase":"medical researchers announced early results from a trial involving patients at four hospitals","group":"random","expected_decade":null,"note":"Frase exploratoria longa acima do padrao de treino."}
+{"id":"R136","phrase":"newspaper editors debated whether radio news bulletins would change the habits of readers","group":"random","expected_decade":null,"note":"Frase exploratoria longa acima do padrao de treino."}
+{"id":"R137","phrase":"transport authorities warned commuters that repairs would delay trains throughout the morning","group":"random","expected_decade":null,"note":"Frase exploratoria longa acima do padrao de treino."}
+{"id":"R138","phrase":"the finance ministry released revised inflation figures after months of pressure from business groups","group":"random","expected_decade":null,"note":"Frase exploratoria longa acima do padrao de treino."}
+{"id":"R139","phrase":"students used portable computers in the classroom while teachers discussed changes in education policy","group":"random","expected_decade":null,"note":"Frase exploratoria longa acima do padrao de treino."}
+{"id":"R140","phrase":"the court heard testimony about campaign donations and private meetings with corporate executives","group":"random","expected_decade":null,"note":"Frase exploratoria longa acima do padrao de treino."}
+{"id":"R141","phrase":"public health officials urged residents to avoid crowded places until the outbreak was under control","group":"random","expected_decade":null,"note":"Frase exploratoria longa acima do padrao de treino."}
+{"id":"R142","phrase":"a group of engineers demonstrated a small electric vehicle designed for crowded urban streets","group":"random","expected_decade":null,"note":"Frase exploratoria longa acima do padrao de treino."}
+{"id":"R143","phrase":"international negotiators reached a temporary agreement after several days of difficult trade talks","group":"random","expected_decade":null,"note":"Frase exploratoria longa acima do padrao de treino."}
+{"id":"R144","phrase":"the technology company said its new online banking system would allow customers to transfer money from home","group":"random","expected_decade":null,"note":"Frase exploratoria longa acima do padrao de treino."}

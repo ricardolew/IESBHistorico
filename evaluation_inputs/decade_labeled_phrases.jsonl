@@ -1,0 +1,24 @@
+{"id":"E1900_001","phrase":"boxer rebellion","expected_decade":"1900s","source_note":"Evento historico associado ao inicio dos anos 1900.","review_status":"reviewed"}
+{"id":"E1900_002","phrase":"russo japanese war","expected_decade":"1900s","source_note":"Conflito associado aos anos 1900.","review_status":"reviewed"}
+{"id":"E1910_001","phrase":"world war armistice","expected_decade":"1910s","source_note":"Expressao associada ao encerramento da Primeira Guerra Mundial.","review_status":"reviewed"}
+{"id":"E1910_002","phrase":"spanish influenza","expected_decade":"1910s","source_note":"Pandemia historicamente associada a 1918.","review_status":"reviewed"}
+{"id":"E1920_001","phrase":"prohibition amendment","expected_decade":"1920s","source_note":"Tema associado ao periodo da Lei Seca nos EUA.","review_status":"reviewed"}
+{"id":"E1920_002","phrase":"flapper fashion","expected_decade":"1920s","source_note":"Expressao cultural associada aos anos 1920.","review_status":"reviewed"}
+{"id":"E1930_001","phrase":"great depression","expected_decade":"1930s","source_note":"Evento economico central dos anos 1930.","review_status":"reviewed"}
+{"id":"E1930_002","phrase":"new deal program","expected_decade":"1930s","source_note":"Politicas associadas ao governo Roosevelt nos anos 1930.","review_status":"reviewed"}
+{"id":"E1940_001","phrase":"german invasion","expected_decade":"1940s","source_note":"Expressao associada a eventos da Segunda Guerra Mundial.","review_status":"reviewed"}
+{"id":"E1940_002","phrase":"pearl harbor attack","expected_decade":"1940s","source_note":"Ataque de 1941 associado aos anos 1940.","review_status":"reviewed"}
+{"id":"E1950_001","phrase":"korean war","expected_decade":"1950s","source_note":"Conflito associado ao inicio dos anos 1950.","review_status":"reviewed"}
+{"id":"E1950_002","phrase":"suez crisis","expected_decade":"1950s","source_note":"Crise internacional de 1956.","review_status":"reviewed"}
+{"id":"E1960_001","phrase":"moon landing","expected_decade":"1960s","source_note":"Evento de 1969.","review_status":"reviewed"}
+{"id":"E1960_002","phrase":"cuban missile crisis","expected_decade":"1960s","source_note":"Crise internacional de 1962.","review_status":"reviewed"}
+{"id":"E1970_001","phrase":"watergate scandal","expected_decade":"1970s","source_note":"Escandalo politico associado aos anos 1970.","review_status":"reviewed"}
+{"id":"E1970_002","phrase":"vietnam ceasefire","expected_decade":"1970s","source_note":"Expressao associada ao encerramento da Guerra do Vietna.","review_status":"reviewed"}
+{"id":"E1980_001","phrase":"berlin wall","expected_decade":"1980s","source_note":"Expressao associada a queda do Muro de Berlim em 1989.","review_status":"reviewed"}
+{"id":"E1980_002","phrase":"challenger explosion","expected_decade":"1980s","source_note":"Acidente espacial de 1986.","review_status":"reviewed"}
+{"id":"E1990_001","phrase":"gulf war","expected_decade":"1990s","source_note":"Conflito de 1990-1991.","review_status":"reviewed"}
+{"id":"E1990_002","phrase":"dot com bubble","expected_decade":"1990s","source_note":"Bolha de tecnologia associada ao fim dos anos 1990.","review_status":"reviewed"}
+{"id":"E2000_001","phrase":"world trade center","expected_decade":"2000s","source_note":"Expressao associada aos ataques de 2001.","review_status":"reviewed"}
+{"id":"E2000_002","phrase":"financial crisis bailout","expected_decade":"2000s","source_note":"Expressao associada a crise financeira de 2008.","review_status":"reviewed"}
+{"id":"E2010_001","phrase":"arab spring","expected_decade":"2010s","source_note":"Eventos iniciados no inicio dos anos 2010.","review_status":"reviewed"}
+{"id":"E2010_002","phrase":"brexit referendum","expected_decade":"2010s","source_note":"Referendo de 2016.","review_status":"reviewed"}

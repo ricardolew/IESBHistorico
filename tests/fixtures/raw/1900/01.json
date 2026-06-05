@@ -1,0 +1,27 @@
+{
+  "response": {
+    "docs": [
+      {
+        "_id": "nyt://article/1900-telegram-office",
+        "web_url": "https://example.com/1900-telegram-office",
+        "pub_date": "1900-01-15T00:00:00+0000",
+        "headline": {
+          "main": "Telegram Office Opens Downtown",
+          "print_headline": "Telegram Office Opens"
+        },
+        "abstract": "The telegram office handled messages for the city.",
+        "snippet": "A new telegram office received many cable messages.",
+        "lead_paragraph": "Officials visited the telegram office and praised the electric message service.",
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "telegram office"
+          }
+        ],
+        "section_name": "Business",
+        "subsection_name": null,
+        "word_count": 320
+      }
+    ]
+  }
+}

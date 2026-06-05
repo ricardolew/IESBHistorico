@@ -1,0 +1,27 @@
+{
+  "response": {
+    "docs": [
+      {
+        "_id": "nyt://article/2020-streaming-platform",
+        "web_url": "https://example.com/2020-streaming-platform",
+        "pub_date": "2020-01-15T00:00:00+0000",
+        "headline": {
+          "main": "Streaming Platform Gains Subscribers",
+          "print_headline": "Streaming Platform Growth"
+        },
+        "abstract": "The streaming platform added original shows and mobile apps.",
+        "snippet": "A streaming platform reported rapid subscriber growth.",
+        "lead_paragraph": "Executives said the streaming platform would invest in recommendation algorithms.",
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "streaming platform"
+          }
+        ],
+        "section_name": "Technology",
+        "subsection_name": null,
+        "word_count": 410
+      }
+    ]
+  }
+}
