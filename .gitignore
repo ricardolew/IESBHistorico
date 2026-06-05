@@ -43,6 +43,7 @@ Thumbs.db
 /normalized/
 /reports/
 /evaluation_results/
+/docs/
 
 # Common large file types
 *.parquet

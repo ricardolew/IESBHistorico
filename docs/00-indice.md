@@ -11,6 +11,7 @@
 - `07-analise-da-amostra-de-predictions.md`: analise da amostra demonstrativa e das previsoes.
 - `08-plano-de-implementacao-melhoria-precisao.md`: plano e status das melhorias de desempenho.
 - `09-relatorio-validacao-organizacao.md`: validacao final de integridade e organizacao do sistema.
+- `10-apresentacao-do-sistema.md`: roteiro em formato de slides para apresentacao do projeto.
 
 ## Artefatos gerados
 
@@ -27,3 +28,5 @@
 4. Mostrar resultados antes/depois em `07-analise-da-amostra-de-predictions.md`.
 5. Usar `evaluation_results/model_comparison.md` para a tabela comparativa.
 6. Fechar com `09-relatorio-validacao-organizacao.md`.
+
+Atalho: usar `10-apresentacao-do-sistema.md` como roteiro consolidado para gerar os slides.
